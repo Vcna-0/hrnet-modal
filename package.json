@@ -1,6 +1,6 @@
 {
-  "name": "hrnet-modal",
-  "version": "1.0.0",
+  "name": "@headlock/hrnet-modal",
+  "version": "1.2.0",
   "description": "Simple confirmation modal component for React",
   "type": "module",
   "author": "Noemie",
@@ -21,7 +21,7 @@
       "import": "./dist/index.js",
       "require": "./dist/index.cjs"
     },
-    "./style": "./dist/style.css"
+    "./style": "./dist/hrnet-modal.css"
   },
   "files": [
     "dist"
